@@ -20,10 +20,3 @@ FitMantra is a Java-based desktop application built using Java Swing and Postgre
 - **PostgreSQL** – Backend database
 - **JDBC** – Java Database Connectivity
 
----
-
-## 🖼️ Screenshots
-
-
-![BMI Calculator](screenshots/Screenshot (151).png)
-![Diet Planner](screenshots/diet-planner.png)
